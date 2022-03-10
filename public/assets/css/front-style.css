@@ -1,0 +1,175 @@
+.mb-15 {
+    margin-bottom: 15px;
+}
+.mb-25 {
+    margin-bottom: 25px;
+}
+.text-sm {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.main-btn {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 15px 45px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 5;
+    transition: all 0.4s ease-in-out;
+    border: 1px solid transparent;
+    overflow: hidden;
+}
+.primary-btn {
+    background: #4a6cf7;
+    color: #fff;
+}
+
+.btn-hover {
+    position: relative;
+    overflow: hidden;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.text-primary {
+    color: #4a6cf7 !important;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.text-medium {
+    font-weight: 500;
+}
+.pb-40 {
+    padding-bottom: 40px;
+}
+
+.pt-40 {
+    padding-top: 40px;
+}
+.help-block {
+    color: #ff0000;
+    font-size: 15px;
+}
+
+.auth-row {
+    background: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.bg-primary-100 {
+    background: rgba(74, 108, 247, 0.1);
+}
+.auth-cover-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 45px;
+    position: relative;
+    z-index: 1;
+    height: 100%;
+}
+.auth-cover-wrapper .auth-cover .title {
+    text-align: cover;
+    margin-bottom: 40px;
+}
+
+.auth-cover-wrapper .auth-cover .cover-image {
+    max-width: 100%;
+    margin: auto;
+}
+.auth-cover-wrapper .auth-cover .cover-image img {
+    width: 100%;
+}
+.auth-cover-wrapper .auth-cover .shape-image {
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    bottom: 5%;
+}
+
+.signup-wrapper {
+    background: #fff;
+    padding: 60px;
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.signin-wrapper .form-wrapper {
+    width: 100%;
+}
+
+
+.checkbox-style {
+    padding-left: 40px;
+    min-height: 28px;
+}
+.checkbox-style .form-check-input {
+    width: 28px;
+    height: 28px;
+    border-radius: 4px;
+    margin-left: -40px;
+    cursor: pointer;
+}
+.checkbox-style label {
+    margin-top: 6px;
+    cursor: pointer;
+    user-select: none;
+}
+.input-style-1 input, .input-style-1 textarea {
+    width: 100%;
+    background: rgba(239, 239, 239, 0.5);
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    padding: 16px;
+    color: #5d657b;
+    resize: none;
+    transition: all 0.3s;
+}
+.theme-btn.btn-style-four.active-role {
+	color: #FFFFFF;
+	background-color: #34A853;
+}
+.role-btn {
+	opacity: 0;
+}
+.input-style-1 {
+    position: relative;
+    margin-bottom: 30px;
+}
+.pt-40 {
+    padding-top: 40px;
+}
+
+.primary-btn-outline {
+    background: transparent;
+    color: #4a6cf7;
+    border-color: #4a6cf7;
+}
+.m-2 {
+    margin: .5rem!important;
+}
+.danger-btn-outline {
+    background: transparent;
+    color: #d50100;
+    border-color: #d50100;
+}
+.text-dark {
+    color: #262d3f !important;
+}
+.form-wrapper {
+	width: 100%;
+}
